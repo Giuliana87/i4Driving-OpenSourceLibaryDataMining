@@ -1,2 +1,4 @@
 # i4Drive-OpenSourceLibaryDataMining
-A selection of Open-source library for data mining techniques are linked in this repository. 
+In this repository:
+1- a selection of Open-source library for data mining techniques are linked; 
+2- code for Driving Beheaviour analysis are available.
